@@ -9,7 +9,7 @@ TARGET_DISABLE_EPPE := true
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 #Gapps
-$(call inherit-product, vendor/gms/gms_full.mk
+$(call inherit-product, vendor/gms/gms_full.mk)
 
 #Crdroid_Stuff
                                                                              
